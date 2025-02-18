@@ -14,7 +14,9 @@ Here's a walkthrough of implemented features:
 
 GIF created with Licecap Tool
 
-<a href="https://github.com/ashwani89n/unlock_arXiv/blob/main/Unlocking%20ArXiv_Final_Report.pdf">## Report</a>
+## Documentation
+
+<a href="https://github.com/ashwani89n/unlock_arXiv/blob/main/Unlocking%20ArXiv_Final_Report.pdf">Final Report</a>
 
 ## License
 
