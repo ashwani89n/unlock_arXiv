@@ -10,7 +10,7 @@ Time spent: 72 hours spent in total
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://github.com/ashwani89n/unlock_arXiv/blob/main/Mistral7B-Chatbot.gif](https://github.com/ashwani89n/unlock_arXiv/blob/main/Mistral-7B-Chatbot.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ashwani89n/unlock_arXiv/blob/main/Mistral-7B-Chatbot.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Licecap Tool
 
